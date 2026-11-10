@@ -1,0 +1,11 @@
+ultralytics
+torch
+torchvision
+opencv-python
+numpy
+matplotlib
+pillow
+pyyaml
+requests
+PyQt5
+pyserial

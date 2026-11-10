@@ -1,0 +1,115 @@
+{
+  "station_name": "产线工位 A-01",
+  "operator": "边缘AI平台",
+  "default_model": "D:/edgeai/best.pt",
+  "runtime_profile": "edge_arm",
+  "camera_index": 0,
+  "confidence": 0.3,
+  "recheck_confidence": 0.55,
+  "input_width": 640,
+  "input_height": 640,
+  "frame_interval_ms": 150,
+  "auto_fullscreen": true,
+  "enable_ai_analysis": true,
+  "auto_analyze_on_alert": false,
+  "llm_api_url": "http://localhost:11434/api/generate",
+  "llm_models": {
+    "qwen2.5_0.5b": {
+      "provider": "ollama",
+      "model_name": "qwen2.5:0.5b",
+      "label": "Qwen2.5 0.5B",
+      "enabled": true
+    },
+    "qwen2.5_1.5b": {
+      "provider": "ollama",
+      "model_name": "qwen2.5:1.5b",
+      "label": "Qwen2.5 1.5B",
+      "enabled": true
+    },
+    "qwen2.5_7b": {
+      "provider": "ollama",
+      "model_name": "qwen2.5:7b",
+      "label": "Qwen2.5 7B",
+      "enabled": true
+    },
+    "phi3_mini": {
+      "provider": "ollama",
+      "model_name": "phi3:mini",
+      "label": "Phi-3 Mini",
+      "enabled": true
+    }
+  },
+  "active_llm_model": "qwen2.5_1.5b",
+  "enable_actuator": false,
+  "actuator_mode": "simulate",
+  "serial_port": "",
+  "serial_baudrate": 9600,
+  "stop_line_ng_threshold": 10,
+  "quality_rules": {
+    "chongkong": {
+      "max_allowed_mm": 0.1,
+      "pass_mm": 0.05,
+      "zero_tolerance": false
+    },
+    "glue_overflow": {
+      "max_allowed_mm": 0.1,
+      "pass_mm": 0.05,
+      "zero_tolerance": false
+    },
+    "henfeng": {
+      "max_allowed_mm": 0.1,
+      "pass_mm": 0.05,
+      "zero_tolerance": false
+    },
+    "pinhole": {
+      "max_allowed_mm": 0.0,
+      "pass_mm": 0.0,
+      "zero_tolerance": true
+    },
+    "scratch": {
+      "max_allowed_mm": 0.1,
+      "pass_mm": 0.05,
+      "zero_tolerance": false
+    },
+    "shuiban": {
+      "max_allowed_mm": 0.1,
+      "pass_mm": 0.05,
+      "zero_tolerance": false
+    },
+    "siban": {
+      "max_allowed_mm": 0.1,
+      "pass_mm": 0.05,
+      "zero_tolerance": false
+    },
+    "yahen": {
+      "max_allowed_mm": 0.1,
+      "pass_mm": 0.05,
+      "zero_tolerance": false
+    },
+    "yaozhe": {
+      "max_allowed_mm": 0.1,
+      "pass_mm": 0.05,
+      "zero_tolerance": false
+    },
+    "yiwu": {
+      "max_allowed_mm": 0.1,
+      "pass_mm": 0.05,
+      "zero_tolerance": false
+    },
+    "youban": {
+      "max_allowed_mm": 0.1,
+      "pass_mm": 0.05,
+      "zero_tolerance": false
+    },
+    "yueyawan": {
+      "max_allowed_mm": 0.1,
+      "pass_mm": 0.05,
+      "zero_tolerance": false
+    },
+    "zhehen": {
+      "max_allowed_mm": 0.1,
+      "pass_mm": 0.05,
+      "zero_tolerance": false
+    }
+  }
+}

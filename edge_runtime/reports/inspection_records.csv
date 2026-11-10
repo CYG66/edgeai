@@ -1,0 +1,455 @@
+﻿record_id,timestamp,station,operator,source_type,source_name,detector_status,decision,action,defect_count,top_confidence,avg_confidence,classes,inference_ms,latency_ms,image_path,notes,analysis
+,2026-04-18 00:35:37,产线工位 A-01,camera,camera,NG,1,0.3644,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003537_255_NG.jpg,
+,2026-04-18 00:35:37,产线工位 A-01,camera,camera,NG,3,0.3412,"zhehen,zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003537_335_NG.jpg,
+,2026-04-18 00:35:37,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003537_406_OK.jpg,
+,2026-04-18 00:35:37,产线工位 A-01,camera,camera,NG,3,0.4269,"zhehen,zhehen,yueyawan",D:\text\edgeai\edge_runtime\captures\20260418_003537_487_NG.jpg,
+,2026-04-18 00:35:37,产线工位 A-01,camera,camera,NG,2,0.4437,"yueyawan,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003537_564_NG.jpg,
+,2026-04-18 00:35:37,产线工位 A-01,camera,camera,NG,1,0.3731,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003537_642_NG.jpg,
+,2026-04-18 00:35:37,产线工位 A-01,camera,camera,NG,1,0.4475,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003537_715_NG.jpg,
+,2026-04-18 00:35:37,产线工位 A-01,camera,camera,NG,1,0.4203,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003537_796_NG.jpg,
+,2026-04-18 00:35:37,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003537_875_OK.jpg,
+,2026-04-18 00:35:37,产线工位 A-01,camera,camera,NG,1,0.6923,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003537_950_NG.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003538_030_OK.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003538_108_OK.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003538_193_OK.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003538_277_OK.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003538_359_OK.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003538_439_OK.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003538_514_OK.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003538_593_OK.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003538_670_OK.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003538_748_OK.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,NG,1,0.3772,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003538_825_NG.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003538_903_OK.jpg,
+,2026-04-18 00:35:38,产线工位 A-01,camera,camera,NG,1,0.3004,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003538_981_NG.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003539_059_OK.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,NG,2,0.4946,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003539_136_NG.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,NG,1,0.3217,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003539_215_NG.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,NG,2,0.4577,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003539_293_NG.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,NG,1,0.3072,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003539_368_NG.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,NG,3,0.4202,"zhehen,zhehen,yueyawan",D:\text\edgeai\edge_runtime\captures\20260418_003539_451_NG.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,NG,3,0.3517,"zhehen,yueyawan,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003539_528_NG.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,NG,2,0.3489,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003539_604_NG.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,NG,2,0.3566,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003539_683_NG.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,NG,2,0.3921,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003539_760_NG.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,NG,1,0.3686,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003539_838_NG.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,NG,2,0.3753,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003539_914_NG.jpg,
+,2026-04-18 00:35:39,产线工位 A-01,camera,camera,NG,1,0.3059,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003539_992_NG.jpg,
+,2026-04-18 00:35:40,产线工位 A-01,camera,camera,NG,1,0.3425,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003540_072_NG.jpg,
+,2026-04-18 00:35:40,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003540_150_OK.jpg,
+,2026-04-18 00:35:40,产线工位 A-01,camera,camera,NG,1,0.3392,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003540_229_NG.jpg,
+,2026-04-18 00:35:40,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003540_303_OK.jpg,
+,2026-04-18 00:35:40,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003540_382_OK.jpg,
+,2026-04-18 00:35:40,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003540_465_OK.jpg,
+,2026-04-18 00:35:40,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003540_543_OK.jpg,
+,2026-04-18 00:35:40,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003540_614_OK.jpg,
+,2026-04-18 00:35:40,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003540_694_OK.jpg,
+,2026-04-18 00:35:40,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003540_771_OK.jpg,
+,2026-04-18 00:35:40,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003540_850_OK.jpg,
+,2026-04-18 00:35:40,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003540_928_OK.jpg,
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,NG,1,0.3102,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003541_006_NG.jpg,
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003541_085_OK.jpg,
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,NG,1,0.3007,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003541_163_NG.jpg,
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,NG,2,0.3537,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003541_243_NG.jpg,
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,NG,1,0.3405,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003541_319_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,NG,1,0.3132,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003541_405_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003541_476_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,NG,2,0.3844,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003541_557_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,NG,1,0.3082,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003541_632_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,NG,2,0.3646,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003541_710_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,NG,1,0.3080,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003541_789_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,NG,2,0.3310,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003541_867_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:41,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003541_944_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003542_022_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003542_102_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,NG,1,0.3143,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003542_178_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,NG,1,0.3322,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003542_257_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,NG,1,0.3850,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003542_332_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003542_411_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003542_488_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003542_566_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003542_644_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003542_723_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,NG,2,0.4021,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003542_803_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,NG,3,0.3401,"zhehen,zhehen,yueyawan",D:\text\edgeai\edge_runtime\captures\20260418_003542_877_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:42,产线工位 A-01,camera,camera,NG,1,0.3134,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003542_955_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,NG,1,0.3362,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003543_033_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,NG,2,0.3592,"yueyawan,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003543_111_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003543_195_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,NG,1,0.3163,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003543_269_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003543_349_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003543_426_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,NG,1,0.3152,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003543_503_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,NG,1,0.3007,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003543_579_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,NG,1,0.3223,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003543_657_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003543_733_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003543_813_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,NG,2,0.4339,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003543_891_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:43,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003543_968_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003544_045_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,NG,1,0.3047,yueyawan,D:\text\edgeai\edge_runtime\captures\20260418_003544_124_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003544_204_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,NG,2,0.3924,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003544_282_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003544_360_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003544_437_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,NG,1,0.3139,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003544_518_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,NG,1,0.3131,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003544_595_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,NG,1,0.3002,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003544_672_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,NG,2,0.3629,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003544_749_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003544_827_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003544_906_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:44,产线工位 A-01,camera,camera,NG,2,0.3493,"zhehen,yueyawan",D:\text\edgeai\edge_runtime\captures\20260418_003544_985_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:45,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003545_061_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:45,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003545_140_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:45,产线工位 A-01,camera,camera,NG,1,0.3011,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003545_221_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:45,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003545_297_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:45,产线工位 A-01,camera,camera,NG,2,0.3653,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003545_377_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:45,产线工位 A-01,camera,camera,NG,1,0.3079,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003545_452_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:45,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003545_531_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:45,产线工位 A-01,camera,camera,NG,1,0.3487,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003545_608_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:45,产线工位 A-01,camera,camera,NG,2,0.3442,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003545_686_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:45,产线工位 A-01,camera,camera,NG,1,0.3563,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003545_766_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:45,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003545_843_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:45,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003545_920_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003545_999_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003546_076_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,NG,2,0.3385,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003546_156_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,NG,1,0.3174,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003546_235_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003546_311_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,NG,1,0.3019,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003546_390_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003546_466_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003546_545_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003546_620_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003546_701_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003546_776_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003546_857_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:46,产线工位 A-01,camera,camera,NG,1,0.3531,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003546_932_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003547_010_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003547_085_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,NG,2,0.3347,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003547_161_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,NG,2,0.3347,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003547_242_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,NG,2,0.3731,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003547_318_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,NG,2,0.3535,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003547_397_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,NG,2,0.3674,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003547_475_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,NG,2,0.3349,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003547_556_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003547_626_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,NG,2,0.3641,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003547_706_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,NG,2,0.3820,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003547_782_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,NG,3,0.3964,"zhehen,zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003547_863_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:47,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003547_938_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003548_015_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003548_094_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003548_172_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003548_249_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,NG,1,0.3234,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003548_327_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,NG,1,0.3471,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003548_406_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003548_488_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003548_562_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003548_641_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,NG,1,0.3375,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003548_719_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,NG,2,0.4432,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003548_797_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,NG,1,0.3278,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003548_870_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:48,产线工位 A-01,camera,camera,NG,1,0.3749,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003548_949_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,NG,2,0.3517,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003549_028_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,NG,1,0.3502,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003549_105_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,NG,1,0.3552,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003549_184_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003549_262_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,NG,1,0.3227,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003549_340_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003549_416_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,NG,2,0.3500,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003549_498_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003549_573_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,NG,1,0.3038,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003549_649_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003549_735_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003549_820_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003549_898_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:49,产线工位 A-01,camera,camera,NG,2,0.3466,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003549_980_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:50,产线工位 A-01,camera,camera,NG,2,0.4265,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003550_057_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:50,产线工位 A-01,camera,camera,NG,2,0.3954,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003550_134_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:50,产线工位 A-01,camera,camera,NG,2,0.4045,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003550_213_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:50,产线工位 A-01,camera,camera,NG,2,0.3081,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003550_289_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:50,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003550_367_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:50,产线工位 A-01,camera,camera,NG,1,0.3147,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003550_445_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:50,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003550_526_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:50,产线工位 A-01,camera,camera,NG,2,0.3466,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003550_603_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:50,产线工位 A-01,camera,camera,NG,2,0.3827,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003550_679_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:50,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003550_757_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:50,产线工位 A-01,camera,camera,NG,1,0.3422,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003550_838_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:35:50,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003550_911_OK.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 00:36:11,产线工位 A-01,camera,camera,NG,1,0.3210,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003611_234_NG.jpg,
+,2026-04-18 00:36:11,产线工位 A-01,camera,camera,NG,2,0.3979,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003611_310_NG.jpg,
+,2026-04-18 00:36:11,产线工位 A-01,camera,camera,NG,1,0.3157,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003611_389_NG.jpg,
+,2026-04-18 00:36:11,产线工位 A-01,camera,camera,NG,2,0.3515,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003611_467_NG.jpg,
+,2026-04-18 00:36:11,产线工位 A-01,camera,camera,NG,2,0.3691,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003611_541_NG.jpg,
+,2026-04-18 00:36:11,产线工位 A-01,camera,camera,NG,1,0.3032,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003611_621_NG.jpg,
+,2026-04-18 00:36:11,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003611_699_OK.jpg,
+,2026-04-18 00:36:11,产线工位 A-01,camera,camera,NG,1,0.3065,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003611_777_NG.jpg,
+,2026-04-18 00:36:11,产线工位 A-01,camera,camera,NG,2,0.3743,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003611_857_NG.jpg,
+,2026-04-18 00:36:11,产线工位 A-01,camera,camera,NG,2,0.4013,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003611_932_NG.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,NG,1,0.3097,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003612_014_NG.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,NG,1,0.3012,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003612_090_NG.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,NG,1,0.3814,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003612_169_NG.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,NG,2,0.3230,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003612_247_NG.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003612_324_OK.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,NG,1,0.3419,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003612_405_NG.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,NG,1,0.3061,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003612_486_NG.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,NG,2,0.3889,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003612_563_NG.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,NG,1,0.3913,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003612_638_NG.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,NG,1,0.3324,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003612_714_NG.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,NG,2,0.3108,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003612_793_NG.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,NG,2,0.4353,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003612_871_NG.jpg,
+,2026-04-18 00:36:12,产线工位 A-01,camera,camera,NG,2,0.3821,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003612_948_NG.jpg,
+,2026-04-18 00:36:13,产线工位 A-01,camera,camera,NG,2,0.3498,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003613_026_NG.jpg,
+,2026-04-18 00:36:13,产线工位 A-01,camera,camera,NG,1,0.3379,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003613_105_NG.jpg,
+,2026-04-18 00:36:13,产线工位 A-01,camera,camera,NG,2,0.3452,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003613_183_NG.jpg,
+,2026-04-18 00:36:13,产线工位 A-01,camera,camera,NG,1,0.3124,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003613_260_NG.jpg,
+,2026-04-18 00:36:13,产线工位 A-01,camera,camera,NG,1,0.3043,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003613_339_NG.jpg,
+,2026-04-18 00:36:13,产线工位 A-01,camera,camera,NG,1,0.3210,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003613_419_NG.jpg,
+,2026-04-18 00:36:13,产线工位 A-01,camera,camera,NG,1,0.3247,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003613_495_NG.jpg,
+,2026-04-18 00:36:13,产线工位 A-01,camera,camera,OK,0,0.0000,,D:\text\edgeai\edge_runtime\captures\20260418_003613_573_OK.jpg,
+,2026-04-18 00:36:13,产线工位 A-01,camera,camera,NG,2,0.3428,"zhehen,zhehen",D:\text\edgeai\edge_runtime\captures\20260418_003613_653_NG.jpg,
+,2026-04-18 00:36:13,产线工位 A-01,camera,camera,NG,1,0.3103,zhehen,D:\text\edgeai\edge_runtime\captures\20260418_003613_729_NG.jpg,"AI 分析失败：HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(""HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))"
+,2026-04-18 10:43:10,产线工位 A-01,边缘AI平台,image,8e010c4732b5fc2eae38104cc2a83932.jpg,OK,OK,PASS,0,0.0000,0.0000,,306.99,307.24,D:\text\edgeai\edge_runtime\captures\20260418_104310_293_OK.jpg,未检测到缺陷,
+,2026-04-18 10:43:19,产线工位 A-01,边缘AI平台,image,8e010c4732b5fc2eae38104cc2a83932.jpg,OK,OK,PASS,0,0.0000,0.0000,,14.89,15.05,D:\text\edgeai\edge_runtime\captures\20260418_104319_736_OK.jpg,未检测到缺陷,
+,2026-04-18 10:44:11,产线工位 A-01,边缘AI平台,image,img_01_425005700_00290.jpg,NG,NG,HOLD,1,0.4500,0.4500,siban,56.95,71.86,D:\text\edgeai\edge_runtime\captures\20260418_104411_829_NG.jpg,存在未配置规则的缺陷类型，按风险优先策略判定为 NG,"1. **当前异常说明**: 在产线工位 A-01 上，使用边缘智能平台 v2.0 进行检测时，发现了一个缺陷类别为 siban 的缺陷。根据当前的检测结果，系统的置信度仅为 45%，可能需要进一步验证该缺陷的真实性和严重性。
+
+2. **可能原因**:
+   - 可能是设备运行过程中出现了局部光照变化或遮挡导致检测模型识别率下降。
+   - 可能是被测物品与检测工位的相对位置发生了微小变动，使得检测结果不准确。
+   - 检测算法在当前环境下可能存在一定的局限性。
+
+3. **现场排查顺序**:
+   1. 首先检查检测区域内的光照情况是否均匀，确认是否有局部阴影或过强光线影响了图像识别质量。
+   2. 观察被检物品与检测设备之间的相对位置有无变动。确保被测产品放置在检测区域的中心点，并且尽量保持稳定和一致的位置关系。
+   3. 检查系统设置中的光照补偿、遮挡检测等功能是否正常启用，尝试调整相关参数看是否有改善。
+   4. 如果上述操作未见明显改进，可考虑重启边缘智能平台软件或重新启动设备。
+
+4. **是否建议停线或人工复检**:
+   - 建议先进行现场排查（步骤3中的检查），如发现影响检测的因素并调整后仍无法改善，则考虑临时暂停该工位的自动化检测功能，并安排人工辅助确认缺陷情况，避免因误判导致不合格产品流入下一工序。"
+,2026-04-18 11:08:32,产线工位 A-01,边缘AI平台,image,img_01_425000300_00103.jpg,OK,OK,PASS,0,0.0000,0.0000,,149.82,152.21,D:\text\edgeai\edge_runtime\captures\20260418_110832_843_OK.jpg,未检测到缺陷,
+,2026-04-18 11:08:43,产线工位 A-01,边缘AI平台,image,img_01_425000300_00103.jpg,OK,OK,PASS,0,0.0000,0.0000,,48.54,50.53,D:\text\edgeai\edge_runtime\captures\20260418_110843_830_OK.jpg,未检测到缺陷,
+,2026-04-18 11:08:50,产线工位 A-01,边缘AI平台,image,img_01_424826800_00002.jpg,NG,NG,HOLD,2,0.5216,0.4585,"henfeng,yueyawan",42.36,44.14,D:\text\edgeai\edge_runtime\captures\20260418_110850_923_NG.jpg,存在未配置规则的缺陷类型，按风险优先策略判定为 NG,
+,2026-04-18 12:18:28,产线工位 A-01,边缘AI平台,image,img_01_424826800_00003.jpg,NG,NG,HOLD,1,0.5585,0.5585,yueyawan,122.94,125.95,D:\text\edgeai\edge_runtime\captures\20260418_121828_623_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-18 12:19:40,产线工位 A-01,边缘AI平台,image,img_01_424826800_00003.jpg,NG,NG,HOLD,1,0.5585,0.5585,yueyawan,68.30,69.83,D:\text\edgeai\edge_runtime\captures\20260418_121940_631_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,"1. **当前异常说明**：
+   - 在产线工位A-01中，边缘智能平台v2.0检测到了一个标记为“yueyawan”的缺陷，最高置信度为0.56。此结果为NG（不合格）状态。
+
+2. **可能原因（明确写为可能）**：
+   - 该缺陷可能是由于工件表面的反光、污渍或纹理导致的误识别。
+   - 边缘AI平台模型在当前样本上的训练数据不足，未能充分学习到相关特征。
+   - 光照条件不佳影响了图像质量，进而对检测结果产生了不利影响。
+
+3. **现场排查顺序**：
+   1. 检查工件表面是否存在反光、污渍或其他可能干扰AI模型识别的因素，并清理干净。
+   2. 核实当前的光照设置是否符合要求，必要时调整照明设备以优化成像效果。
+   3. 回顾并确认边缘智能平台模型在该类别上的训练情况和数据集覆盖范围。
+   4. 检查工位A-01的操作员使用边缘AI平台时是否有不当操作行为。
+
+4. **是否建议停线或人工复检**：
+   - 建议暂时不立即停止生产线，但需要对当前样本进行人工复核以确认结果的准确性。
+   - 同时启动现场排查步骤，确保能够及时识别并解决潜在问题。如果排查过程中发现问题严重影响检测效果，则需考虑适当停线调整。"
+,2026-04-18 12:27:49,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.5049,0.5049,henfeng,123.99,125.26,D:\text\edgeai\edge_runtime\captures\20260418_122749_242_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-18 12:27:49,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.4092,0.4092,henfeng,33.72,34.85,D:\text\edgeai\edge_runtime\captures\20260418_122749_445_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-18 12:27:49,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.3592,0.3592,henfeng,34.41,35.51,D:\text\edgeai\edge_runtime\captures\20260418_122749_650_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-18 12:27:49,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.3002,0.3002,henfeng,36.69,37.83,D:\text\edgeai\edge_runtime\captures\20260418_122749_854_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-18 12:27:50,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,34.24,35.20,D:\text\edgeai\edge_runtime\captures\20260418_122750_055_OK.jpg,未检测到缺陷,
+,2026-04-18 12:27:50,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,36.34,37.56,D:\text\edgeai\edge_runtime\captures\20260418_122750_259_OK.jpg,未检测到缺陷,
+,2026-04-18 12:27:50,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.3462,0.3462,henfeng,36.17,37.40,D:\text\edgeai\edge_runtime\captures\20260418_122750_458_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-18 12:27:50,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,32.95,33.90,D:\text\edgeai\edge_runtime\captures\20260418_122750_658_OK.jpg,未检测到缺陷,
+,2026-04-18 12:27:50,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,34.52,35.56,D:\text\edgeai\edge_runtime\captures\20260418_122750_859_OK.jpg,未检测到缺陷,
+,2026-04-18 12:27:51,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,33.02,33.98,D:\text\edgeai\edge_runtime\captures\20260418_122751_059_OK.jpg,未检测到缺陷,
+,2026-04-18 12:27:51,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,33.61,34.57,D:\text\edgeai\edge_runtime\captures\20260418_122751_258_OK.jpg,未检测到缺陷,
+,2026-04-18 12:27:51,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,33.74,34.80,D:\text\edgeai\edge_runtime\captures\20260418_122751_459_OK.jpg,未检测到缺陷,
+,2026-04-18 12:27:51,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,38.82,39.79,D:\text\edgeai\edge_runtime\captures\20260418_122751_662_OK.jpg,未检测到缺陷,
+,2026-04-18 12:27:51,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,34.69,35.69,D:\text\edgeai\edge_runtime\captures\20260418_122751_862_OK.jpg,未检测到缺陷,
+,2026-04-18 12:27:52,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,33.62,34.61,D:\text\edgeai\edge_runtime\captures\20260418_122752_066_OK.jpg,未检测到缺陷,"1. **当前异常说明**：
+   - 根据提供的检测结果，设备运行正常，没有发现缺陷，最高置信度为0.00，推理耗时为33.6 ms。但可能存在系统未识别出任何缺陷的情况。
+
+2. **可能原因（明确写为可能）**：
+   - 可能是当前工位A-01的产品表面没有实际的缺陷。
+   - 可能是检测模型对当前产品类型或样本集的学习不足，导致未能识别出潜在的微小瑕疵。
+   - 可能是环境光照、反光或其他因素影响了检测结果。
+
+3. **现场排查顺序**：
+   1. 确认工位A-01的产品是否有实际存在的缺陷。如果产品本身没有明显缺陷，则可能与模型相关。
+   2. 检查当前使用的辅助模型是否对工位产品的样本集进行了充分训练，包括但不限于不同类型的正常和异常样品。
+   3. 核实检测环境的光照、反光等物理条件是否适宜，确保不会影响图像识别效果。
+   4. 如果上述排查无果，则建议检查边缘智能平台v2.0的相关配置与参数设置是否合理。
+
+4. **是否建议停线或人工复检**：
+   - 目前不建议立即停止生产线运行或进行大规模的人工复检。可以先对模型的训练样本和环境因素进行初步排查，确认无明显问题后再决定下一步措施。
+   - 建议增加少量人工抽检作为补充检测手段，以确保产品品质。
+
+以上建议仅供参考，在实际操作中可能需要根据具体情况进行调整。"
+,2026-04-18 12:39:37,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,135.20,136.55,D:\text\edgeai\edge_runtime\captures\20260418_123937_196_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:37,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,38.99,40.25,D:\text\edgeai\edge_runtime\captures\20260418_123937_404_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:37,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.3690,0.3690,yueyawan,39.76,41.28,D:\text\edgeai\edge_runtime\captures\20260418_123937_617_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-18 12:39:37,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,37.78,39.02,D:\text\edgeai\edge_runtime\captures\20260418_123937_830_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:38,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,39.37,40.84,D:\text\edgeai\edge_runtime\captures\20260418_123938_032_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:38,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,37.24,38.48,D:\text\edgeai\edge_runtime\captures\20260418_123938_246_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:38,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,36.15,37.25,D:\text\edgeai\edge_runtime\captures\20260418_123938_458_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:38,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,40.58,42.11,D:\text\edgeai\edge_runtime\captures\20260418_123938_661_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:38,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,36.20,37.48,D:\text\edgeai\edge_runtime\captures\20260418_123938_869_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:39,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,36.98,38.04,D:\text\edgeai\edge_runtime\captures\20260418_123939_072_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:39,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,36.58,38.26,D:\text\edgeai\edge_runtime\captures\20260418_123939_285_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:39,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,36.00,37.12,D:\text\edgeai\edge_runtime\captures\20260418_123939_482_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:39,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,35.75,37.10,D:\text\edgeai\edge_runtime\captures\20260418_123939_684_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:39,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,38.50,40.37,D:\text\edgeai\edge_runtime\captures\20260418_123939_895_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:40,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,33.44,34.74,D:\text\edgeai\edge_runtime\captures\20260418_123940_105_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:40,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,37.85,39.18,D:\text\edgeai\edge_runtime\captures\20260418_123940_306_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:40,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,38.26,39.51,D:\text\edgeai\edge_runtime\captures\20260418_123940_519_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:56,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,42.59,44.06,D:\text\edgeai\edge_runtime\captures\20260418_123956_810_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:57,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,36.70,38.02,D:\text\edgeai\edge_runtime\captures\20260418_123957_006_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:57,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,36.34,37.45,D:\text\edgeai\edge_runtime\captures\20260418_123957_204_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:57,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,35.69,36.84,D:\text\edgeai\edge_runtime\captures\20260418_123957_402_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:57,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,37.06,38.10,D:\text\edgeai\edge_runtime\captures\20260418_123957_602_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:57,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,34.79,35.86,D:\text\edgeai\edge_runtime\captures\20260418_123957_799_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:58,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,35.82,37.06,D:\text\edgeai\edge_runtime\captures\20260418_123958_000_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:58,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,37.58,38.85,D:\text\edgeai\edge_runtime\captures\20260418_123958_203_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:58,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.3189,0.3189,yueyawan,41.27,42.93,D:\text\edgeai\edge_runtime\captures\20260418_123958_416_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-18 12:39:58,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,36.48,37.66,D:\text\edgeai\edge_runtime\captures\20260418_123958_627_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:58,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,34.92,36.22,D:\text\edgeai\edge_runtime\captures\20260418_123958_826_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:59,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,37.19,38.57,D:\text\edgeai\edge_runtime\captures\20260418_123959_025_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:59,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,34.95,36.09,D:\text\edgeai\edge_runtime\captures\20260418_123959_225_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:59,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,39.43,40.53,D:\text\edgeai\edge_runtime\captures\20260418_123959_427_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:59,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,35.82,37.02,D:\text\edgeai\edge_runtime\captures\20260418_123959_640_OK.jpg,未检测到缺陷,
+,2026-04-18 12:39:59,产线工位 A-01,边缘AI平台,camera,camera,OK,OK,PASS,0,0.0000,0.0000,,39.26,40.45,D:\text\edgeai\edge_runtime\captures\20260418_123959_842_OK.jpg,未检测到缺陷,"### 1. 当前异常说明
+当前没有发现任何异常，边缘智能平台 v2.0 的产线工位 A-01 工作状态正常，所有检测结果均在预期范围内。最高置信度为 0.00，表明系统检测过程未产生异常。
+
+### 2. 可能原因（明确写为可能）
+1. **传感器或硬件问题**：检查机器人的传感器、相机或其他相关硬件设备是否出现故障。
+2. **软件配置问题**：确认边缘平台的软件版本与当前工位的操作手册匹配，以及环境变量设置无误。
+3. **网络连接异常**：排查网络信号不稳定或中断，确保系统能够正常通信。
+4. **系统运行压力大**：检查是否有其他应用程序占用大量 CPU 和内存资源导致影响生产效率。
+5. **参数配置错误**：确认模型的超参数设置是否合理且没有过大的偏差。
+
+### 3. 现场排查顺序
+1. **硬件和传感器检查**：首先检查机器人及其相关设备，特别是相机、摄像头、标签识别装置等是否有损坏或信号问题。
+2. **软件版本与环境变量核对**：确认边缘平台的软件版本和配置参数是否符合当前工位的使用要求。
+3. **网络连接测试**：确保工业互联网协议（IP）连接稳定且没有断开，检查数据传输通道是否存在拥堵或异常情况。
+4. **系统运行压力监控**：实时监测 CPU 和内存使用率，如果发现过高应立即调整工作负载分配策略。
+5. **参数配置核查**：重新评估模型的超参数设置和训练时间，确保它们在当前条件下有效且无冗余。
+
+### 4. 是否建议停线或人工复检
+由于目前没有检测到任何异常，因此暂不建议停线。如果工位 A-01 的生产效率持续下降或者出现其他明显异常现象时，应考虑进行现场排查步骤中的第 2 和第 3 环节的检查，确保所有硬件和软件环境都处于最佳状态。在排除硬件故障后，可以对模型参数进行适当的调整或重新训练来改善生产性能。"
+,2026-04-18 23:29:16,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.3835,0.3835,yueyawan,249.99,257.71,D:\edgeai\edge_runtime\captures\20260418_232916_343_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-18 23:29:16,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.3689,0.3689,henfeng,35.08,36.31,D:\edgeai\edge_runtime\captures\20260418_232916_545_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-18 23:29:16,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.3702,0.3702,henfeng,38.05,39.52,D:\edgeai\edge_runtime\captures\20260418_232916_751_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-18 23:29:17,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.3321,0.3321,henfeng,26.15,27.42,D:\edgeai\edge_runtime\captures\20260418_232917_144_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-18 23:29:18,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.3022,0.3022,henfeng,30.71,32.03,D:\edgeai\edge_runtime\captures\20260418_232918_568_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-19 09:49:31,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,1,0.3144,0.3144,henfeng,482.56,496.86,D:\edgeai\edge_runtime\captures\20260419_094931_714_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-19 09:49:31,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,2,0.4221,0.3637,"henfeng,yueyawan",105.71,107.54,D:\edgeai\edge_runtime\captures\20260419_094931_984_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-19 09:49:32,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,2,0.4448,0.3776,"henfeng,yueyawan",98.35,100.32,D:\edgeai\edge_runtime\captures\20260419_094932_254_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-19 09:49:32,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,2,0.3918,0.3794,"henfeng,yueyawan",99.32,101.33,D:\edgeai\edge_runtime\captures\20260419_094932_515_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-19 09:49:32,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,2,0.3810,0.3699,"yueyawan,henfeng",99.58,101.69,D:\edgeai\edge_runtime\captures\20260419_094932_783_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-19 09:49:33,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,3,0.3662,0.3433,"yueyawan,henfeng,youban",100.37,103.62,D:\edgeai\edge_runtime\captures\20260419_094933_043_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-19 09:49:33,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,3,0.3521,0.3424,"henfeng,yueyawan,henfeng",93.57,95.66,D:\edgeai\edge_runtime\captures\20260419_094933_302_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-19 09:49:33,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,2,0.3754,0.3574,"henfeng,yueyawan",90.52,92.44,D:\edgeai\edge_runtime\captures\20260419_094933_567_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-19 09:49:33,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,HOLD,2,0.3864,0.3757,"yueyawan,henfeng",90.73,92.63,D:\edgeai\edge_runtime\captures\20260419_094933_825_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-19 09:49:34,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,STOP_LINE,2,0.3943,0.3607,"henfeng,yueyawan",89.95,91.85,D:\edgeai\edge_runtime\captures\20260419_094934_085_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-19 09:49:34,产线工位 A-01,边缘AI平台,camera,camera,NG,NG,STOP_LINE,3,0.3537,0.3355,"youban,henfeng,yueyawan",150.45,152.49,D:\edgeai\edge_runtime\captures\20260419_094934_407_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-19 09:51:49,产线工位 A-01,边缘AI平台,image,img_01_424826800_00002.jpg,NG,NG,HOLD,2,0.5216,0.4585,"henfeng,yueyawan",147.63,150.42,D:\edgeai\edge_runtime\captures\20260419_095149_172_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,"1. **当前异常说明**：
+   - 产线工位A-01在使用边缘智能平台v2.0进行检测时，出现了2个缺陷，分别是“henfeng”和“yueyawan”，最高置信度为52%，但未达到完全确认的标准。
+
+2. **可能原因（明确写为可能）**：
+   - 可能是由于当前的产品表面存在少量的、不易被检测到的细微瑕疵。
+   - 边缘AI平台v2.0在进行识别时，模型对于此类缺陷的特征可能存在一定的误判情况。
+   - 检测设备或工位A-01的环境条件可能影响了检测结果。
+
+3. **现场排查顺序**：
+   - 首先检查产品表面是否存在明显的“henfeng”和“yueyawan”缺陷，确认这些缺陷是否确实存在。
+   - 核查边缘智能平台v2.0的当前模型版本和参数设置，确保使用的是最新的优化版，并且参数配置正确。
+   - 检查工位A-01的环境条件，如光照、温度等是否符合设备的最佳运行要求。
+
+4. **是否建议停线或人工复检**：
+   - 建议先对当前产品进行人工复检，确认缺陷是否存在。如果发现存在实际问题，则进一步排查原因。
+   - 不需要立即停线生产，但应持续关注此问题，确保后续产品的质量不受影响。"
+,2026-04-19 09:53:35,产线工位 A-01,边缘AI平台,image,img_01_425006200_01173.jpg,NG,NG,HOLD,4,0.4692,0.4331,"henfeng,henfeng,yueyawan,yueyawan",147.87,151.11,D:\edgeai\edge_runtime\captures\20260419_095335_830_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,
+,2026-04-20 21:32:38,产线工位 A-01,边缘AI平台,image,img_02_425622600_00001.jpg,NG,NG,HOLD,3,0.6051,0.4816,"henfeng,siban,siban",303.96,313.71,D:\edgeai\edge_runtime\captures\20260420_213238_539_NG.jpg,存在未配置规则的缺陷类型，按风险优先判定为 NG,"1. **当前异常说明**
+   - 在产线工位 A-01 使用边缘智能平台 v2.0 进行检测时，共有 3 个缺陷被识别出。具体类别为 henfeng 和 siban 类型的缺陷。
+
+2. **可能原因（明确写为可能）**
+   - 可能是由于图像采集设备的角度或光照条件不佳导致某些特征未能准确捕获；
+   - 边缘智能平台的模型训练数据中缺少类似缺陷样本，导致对这些缺陷的识别不够精确；
+   - 在硬件配置上，边缘AI平台运行时的计算资源可能不足，影响了检测精度。
+
+3. **现场排查顺序**
+   - 首先检查图像采集设备的角度和光照条件是否符合要求，并调整以优化数据采集质量。
+   - 然后确认边缘智能平台 v2.0 的模型训练数据中是否包含henfeng 和 siban 类型缺陷的样本，若缺乏，则考虑增加这些类别的标注数据并重新训练模型。
+   - 检查边缘AI平台运行时是否有足够的计算资源，确保其运行状态良好。
+
+4. **是否建议停线或人工复检**
+   - 建议暂不立即停线生产。可先通过调整图像采集设备和优化检测模型来改善当前问题，并在此期间进行人工抽检以确认缺陷情况。
+   - 如果短期内无法有效解决上述问题，可以考虑局部停止产线并安排人员进行手动检查作为临时措施。"
+,2026-04-21 00:01:03,产线工位 A-01,边缘AI平台,image,img_01_425005700_00194.jpg,NG,NG,REJECT,2,0.5055,0.4975,"siban,siban",121.77,123.58,D:\edgeai\edge_runtime\captures\20260421_000103_523_NG.jpg,siban 超出允许阈值,"1. **当前异常说明**: 在产线工位A-01进行检测时，边缘智能平台v2.0识别到了2个缺陷，类别均为siban。最高置信度为51%，推理耗时为121.8毫秒。
+
+2. **可能原因**:
+   - **可能**环境光变化：当前光照条件的改变可能导致模型检测结果的变化。
+   - **可能**传感器偏差或遮挡物：摄像头或其他传感器的位置变动或者有物体遮挡，导致图像质量下降。
+   - **可能**模型过时或数据集不足：使用的辅助模型Qwen2.5 7B可能需要更新以适应当前的生产环境变化。
+
+3. **现场排查顺序**:
+   - 首先检查产线工位A-01的光线条件，确认是否有显著的变化。
+   - 检查摄像头及其他传感器的位置和角度，确保没有被遮挡或移动过位置。
+   - 核对模型版本是否为最新，或尝试使用其他已验证有效的辅助模型进行测试。
+
+4. **是否建议停线或人工复检**:
+   - 由于当前检测结果为2个缺陷且最高置信度不高（51%），建议先进行上述现场排查步骤。若确认无异常情况仍持续出现，则考虑启动人工复检以进一步验证结果，但不立即建议完全停止生产线运行。
+
+以上是基于现有信息的保守排查建议，请根据实际情况逐步实施。"
+,2026-04-23 13:08:27,产线工位 A-01,边缘AI平台,image,img_01_425005700_00310.jpg,NG,NG,REJECT,2,0.4516,0.3962,"siban,siban",288.94,302.56,D:\edgeai\edge_runtime\captures\20260423_130827_259_NG.jpg,siban 超出允许阈值,"1. **当前异常说明**：
+   - 产线工位 A-01 的检测结果显示，存在两个缺陷类别均为“siban”的质量不合格情况。
+
+2. **可能原因（明确写为可能）**：
+   - 可能原因一：设备边缘智能平台 v2.0 的模型在识别“siban”缺陷方面存在局限性。
+   - 可能原因二：工件表面状态或光照条件影响了模型的识别效果，导致置信度较低（0.45）。
+   - 可能原因三：辅助设备如摄像头等可能未正确校准或维护不足。
+
+3. **现场排查顺序**：
+   1. 检查当前使用的边缘智能平台 v2.0 的模型设置和参数配置，确认是否已优化至最佳状态。
+   2. 核对产线工位 A-01 工件表面的状态以及光照条件，并调整摄像头角度或亮度以改善图像采集质量。
+   3. 对辅助设备进行检查与维护，确保其正常工作。
+   4. 若问题依旧存在，则考虑人工目测复核部分样本，对比模型识别结果。
+
+4. **是否建议停线或人工复检**：
+   - 建议暂时不对整条产线进行停产处理，但需要增加人工目测复检频率。特别是针对“siban”缺陷的工件，可设置一个短暂的人工抽检窗口期，以确认当前模型识别结果的有效性，并依据实际情况决定后续措施是否升级或调整。
+
+以上建议旨在提供一种谨慎而全面的问题排查方案，在确保不影响生产进度的同时逐步排除潜在问题。"
+,2026-04-24 19:38:37,产线工位 A-01,边缘AI平台,image,img_01_425000300_00103.jpg,NG,NG,REJECT,3,0.9602,0.8108,"shuiban,shuiban,shuiban",302.54,308.37,D:\edgeai\edge_runtime\captures\20260424_193837_433_NG.jpg,shuiban 超出允许阈值,
+,2026-04-24 19:47:55,产线工位 A-01,边缘AI平台,image,img_01_424826800_00002.jpg,NG,NG,REJECT,2,0.7419,0.5872,"henfeng,yueyawan",146.03,148.02,D:\edgeai\edge_runtime\captures\20260424_194755_391_NG.jpg,henfeng 超出允许阈值,"当前异常说明：
+根据边缘智能平台 V2.0 的检测结果，发现产线工位 A-01 有 2 个缺陷，分别是 henfeng 和 yueyawan。最高置信度为 0.74，这表示系统对这两个缺陷的识别较为准确。
+
+可能原因（明确写为可能）：
+1. 设备参数设置不正确：可能存在设备参数未调整到最优状态，导致检测功能失效。
+2. 检测算法问题：可能存在最新的检测算法中没有涵盖的异常类型，或者算法存在误判的情况。
+3. 环境因素影响：生产环境中的温度、湿度等变化可能对检测结果产生干扰。
+4. 产品材料或工艺变更：最近的产品原材料或制造工艺发生了改变，导致设备无法识别出原有的缺陷特征。
+
+现场排查顺序：
+1. 首先检查设备参数设置是否正确。对照系统指导文档和设备说明书，重新设置必要的参数，如光源、分辨率等。
+2. 使用边缘平台的调试工具（如果有）对检测算法进行验证，确保其在所有可能的异常场景中都表现良好。
+3. 考虑环境因素的影响，检查工作区域的温度、湿度等条件，并尽量保持相对稳定。
+4. 若上述方法无法解决问题，则可以考虑在生产线上暂停或暂时停线（人工复检），并对相关工位进行细致的故障排除和确认。
+
+建议是否停线或人工复检：
+鉴于目前系统检测结果中的最高置信度较高，且缺陷类别明确指出是特定类型的异常，现场排查应优先采取停线或人工复检的方法。如果经过初步排除后依然无法解决问题，再考虑是否暂停生产进行深入诊断。"
+,2026-04-24 21:28:56,产线工位 A-01,边缘AI平台,image,img_01_424825700_00001.jpg,NG,NG,REJECT,1,0.9860,0.9860,yueyawan,44.80,50.49,D:\edgeai\edge_runtime\captures\20260424_212856_145_NG.jpg,yueyawan 超出允许阈值,"### 当前异常说明
+边缘智能平台产线工位A-01检测结果异常，缺陷类型为“yueyawan”，最高置信度为99%，推理耗时为44.8毫秒。这表明存在一个确认的不合格品（NG）。
+
+### 可能原因
+1. **传感器故障或损坏**：可能存在生产线上使用的传感器或者其连接件出现物理或电气问题，导致检测器无法正确读取数据。
+2. **算法错误或不匹配**：边缘平台上的某个版本可能存在算法配置错误、参数设置不当等问题。
+3. **环境影响**：环境温度变化、湿度波动等也可能对设备产生干扰，导致检测效果不佳。
+4. **硬件故障**：可能是硬件设备的连接线缆松动或者接口问题引起数据传输异常。
+
+### 现场排查顺序
+1. **初步检查产线参数设置**：确认当前软件版本是否与生产需求相匹配，是否存在算法更新未及时同步的问题。
+2. **传感器校准和重启**：对使用的传感器进行重新校准，并尝试重启相关设备或模块以排除物理故障的可能性。
+3. **环境测试**：在不同的温度、湿度条件下重复检测，观察是否有不同环境导致的异常现象发生。
+4. **硬件检查**：对边缘平台上的所有连接线缆和接口进行彻底检查，确保没有松动或者损坏的情况。
+
+### 建议
+- 如果初步排查中发现传感器故障或算法配置问题，应立即通知相关团队进行修复处理。
+- 保持产线的定期维护和检查频率，确保所有的设备都处于最佳工作状态。
+- 对于环境因素，可以通过调整生产环境参数来控制影响程度。
+- 在确认没有硬件故障且软件参数匹配的情况下，建议进行人工复检，以进一步确证问题所在并采取相应措施。
+
+请根据实际检测结果调用以上排查步骤，并及时反馈给相关团队处理。"
